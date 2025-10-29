@@ -1,0 +1,501 @@
+Review,True_Label,Has_Negation
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+I can't say this was a waste of money.,1,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+I can’t say this product is worth the price.,0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"The service was not great, it was terrible.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"This is not satisfying, I regret buying it.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"The service was not great, it was terrible.",0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"The book is not engaging, I found it boring.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+"This is not satisfying, I regret buying it.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The service was not great, it was terrible.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The service was not great, it was terrible.",0,1
+"This is not satisfying, I regret buying it.",0,1
+"This is not satisfying, I regret buying it.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+I can’t say this product is worth the price.,0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"The book is not engaging, I found it boring.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+I can't say I enjoyed this product.,0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+I can't say I enjoyed this product.,0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"This is not terrible, in fact, it's quite good.",1,1
+I can’t say this product is worth the price.,0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The food is not awful, it tastes pretty great.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+I can't say I enjoyed this product.,0,1
+"I don't hate this phone, it's actually impressive.",1,1
+"The food is not awful, it tastes pretty great.",1,1
+I can’t say this product is worth the price.,0,1
+"The food is not awful, it tastes pretty great.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+I can't say this was a waste of money.,1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"The service was not slow, it was quick and efficient.",1,1
+"The book is not engaging, I found it boring.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+I can't say this was a waste of money.,1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+I can't say this was a waste of money.,1,1
+I can’t say this product is worth the price.,0,1
+"This is not satisfying, I regret buying it.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+I can’t say this product is worth the price.,0,1
+I can't say this was a waste of money.,1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"The service was not great, it was terrible.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+I can’t say this product is worth the price.,0,1
+"This is not satisfying, I regret buying it.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The service was not great, it was terrible.",0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"The book is not engaging, I found it boring.",0,1
+I can't say I enjoyed this product.,0,1
+"The service was not great, it was terrible.",0,1
+"The service was not great, it was terrible.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"This is not satisfying, I regret buying it.",0,1
+"The book is not engaging, I found it boring.",0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+I can’t say this product is worth the price.,0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+I can't say this was a waste of money.,1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+I can't say I enjoyed this product.,0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+I can't say this was a waste of money.,1,1
+"The service was not slow, it was quick and efficient.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"The service was not great, it was terrible.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+I can't say I enjoyed this product.,0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"The service was not slow, it was quick and efficient.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"This book isn’t bad, it’s really interesting.",1,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+I can't say this was a waste of money.,1,1
+I can’t say this product is worth the price.,0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"The book is not engaging, I found it boring.",0,1
+"The book is not engaging, I found it boring.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+I can’t say this product is worth the price.,0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"The book is not engaging, I found it boring.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+"The service was not great, it was terrible.",0,1
+"The service was not great, it was terrible.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+I can't say I enjoyed this product.,0,1
+I can’t say this product is worth the price.,0,1
+"I don't hate this phone, it's actually impressive.",1,1
+"This book isn’t bad, it’s really interesting.",1,1
+I can’t say this product is worth the price.,0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"This is not satisfying, I regret buying it.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+I can’t say this product is worth the price.,0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The service was not slow, it was quick and efficient.",1,1
+I can’t say this product is worth the price.,0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The book is not engaging, I found it boring.",0,1
+I can't say this was a waste of money.,1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+I can't say I enjoyed this product.,0,1
+I can't say I enjoyed this product.,0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"The service was not slow, it was quick and efficient.",1,1
+"The food is not awful, it tastes pretty great.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The service was not great, it was terrible.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"This is not satisfying, I regret buying it.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"This is not satisfying, I regret buying it.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+I can't say I enjoyed this product.,0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"The book is not engaging, I found it boring.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+I can't say this was a waste of money.,1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"This book isn’t bad, it’s really interesting.",1,1
+"This is not satisfying, I regret buying it.",0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+I can't say this was a waste of money.,1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+I can't say this was a waste of money.,1,1
+I can't say this was a waste of money.,1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"This is not satisfying, I regret buying it.",0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"The food is not awful, it tastes pretty great.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"The service was not great, it was terrible.",0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+I can’t say this product is worth the price.,0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"This is not satisfying, I regret buying it.",0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"This is not satisfying, I regret buying it.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"The book is not engaging, I found it boring.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+I can't say I enjoyed this product.,0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"The service was not slow, it was quick and efficient.",1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The service was not great, it was terrible.",0,1
+"This is not satisfying, I regret buying it.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+I can't say I enjoyed this product.,0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+I can't say I enjoyed this product.,0,1
+"This is not satisfying, I regret buying it.",0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"The service was not slow, it was quick and efficient.",1,1
+"This book isn’t bad, it’s really interesting.",1,1
+I can't say this was a waste of money.,1,1
+I can’t say this product is worth the price.,0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The service was not slow, it was quick and efficient.",1,1
+I can't say this was a waste of money.,1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+I can’t say this product is worth the price.,0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The food is not awful, it tastes pretty great.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"I don't hate this phone, it's actually impressive.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"This book isn’t bad, it’s really interesting.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"The service was not great, it was terrible.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+I can't say this was a waste of money.,1,1
+"The service was not great, it was terrible.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"The service was not great, it was terrible.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+"This is not satisfying, I regret buying it.",0,1
+"I don't hate this phone, it's actually impressive.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I don't hate this phone, it's actually impressive.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The food is not awful, it tastes pretty great.",1,1
+"The food is not awful, it tastes pretty great.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+I can't say I enjoyed this product.,0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"The service was not great, it was terrible.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+I can’t say this product is worth the price.,0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+I can't say this was a waste of money.,1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"This book isn’t bad, it’s really interesting.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+I can't say this was a waste of money.,1,1
+"This book isn’t bad, it’s really interesting.",1,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+I can't say this was a waste of money.,1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+I can't say I enjoyed this product.,0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The service was not great, it was terrible.",0,1
+I can't say this was a waste of money.,1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"This is not satisfying, I regret buying it.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+I can’t say this product is worth the price.,0,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+I can't say I enjoyed this product.,0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"The book is not engaging, I found it boring.",0,1
+I can’t say this product is worth the price.,0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The service was not slow, it was quick and efficient.",1,1
+"The book is not engaging, I found it boring.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+I can't say this was a waste of money.,1,1
+"The food is not awful, it tastes pretty great.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+I can't say I enjoyed this product.,0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"The food is not tasty, it’s bland and awful.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"The service was not great, it was terrible.",0,1
+"The service was not great, it was terrible.",0,1
+I can't say I enjoyed this product.,0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The service was not slow, it was quick and efficient.",1,1
+"The service was not great, it was terrible.",0,1
+I can’t say this product is worth the price.,0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I don't hate this phone, it's actually impressive.",1,1
+I can't say this was a waste of money.,1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"I don't hate this phone, it's actually impressive.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"This book isn’t bad, it’s really interesting.",1,1
+I can't say I enjoyed this product.,0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+I can't say I enjoyed this product.,0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The book is not engaging, I found it boring.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The service was not great, it was terrible.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+I can’t say this product is worth the price.,0,1
+"The service was not great, it was terrible.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"This book isn’t bad, it’s really interesting.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+I can't say this was a waste of money.,1,1
+"The service was not slow, it was quick and efficient.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"The food is not awful, it tastes pretty great.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"The book is not engaging, I found it boring.",0,1
+"This is not amazing, it’s actually pretty bad.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I was expecting the worst, but it’s not bad at all.",1,1
+"The food is not awful, it tastes pretty great.",1,1
+"I thought this was going to be good, but it's not good at all.",0,1
+I can’t say this product is worth the price.,0,1
+"This book isn’t bad, it’s really interesting.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+I can't say this was a waste of money.,1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"This is not satisfying, I regret buying it.",0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+I can’t say this product is worth the price.,0,1
+I can't say this was a waste of money.,1,1
+"The service was not slow, it was quick and efficient.",1,1
+I can't say this was a waste of money.,1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"The movie is not boring, I actually enjoyed it.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+"The service was not great, it was terrible.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"The book is not engaging, I found it boring.",0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+I can’t say this product is worth the price.,0,1
+I can’t say this product is worth the price.,0,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I didn’t expect much, but it’s not disappointing.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"I don't hate this phone, it's actually impressive.",1,1
+"This book isn’t bad, it’s really interesting.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"The book is not engaging, I found it boring.",0,1
+"The movie is not boring, I actually enjoyed it.",1,1
+I can't say I enjoyed this product.,0,1
+"This book isn’t bad, it’s really interesting.",1,1
+I can’t say this product is worth the price.,0,1
+"The food is not awful, it tastes pretty great.",1,1
+"This is not terrible, in fact, it's quite good.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
+"This is not terrible, in fact, it's quite good.",1,1
+"The food is not tasty, it’s bland and awful.",0,1
+"The service was not slow, it was quick and efficient.",1,1
+I can't say this was a waste of money.,1,1
+"This book isn’t bad, it’s really interesting.",1,1
+"It’s not useful, it’s a complete waste of money.",0,1
+"I thought this was going to be good, but it's not good at all.",0,1
+"I thought this product would be bad, but it's not bad at all.",1,1
+"I didn’t find this movie entertaining, it’s not good.",0,1
