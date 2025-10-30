@@ -1,0 +1,501 @@
+ID,Review,Has_Negation,Negation_Target,True_Label
+1,The shoes is slow.,0,,Negative
+2,I found the shoes quite worst.,0,,Negative
+3,This shoes turned out to be not worst.,1,worst,Neutral
+4,This phone turned out to be slow.,0,,Negative
+5,The pillow is amazing.,0,,Positive
+6,The headphones is worst.,0,,Negative
+7,The camera is just not okay.,1,okay,Neutral
+8,The camera is just fine.,0,,Neutral
+9,"It feels ordinary, nothing special.",0,,Neutral
+10,The book is not terrible.,1,terrible,Positive
+11,The pillow is horrible.,0,,Negative
+12,The book is uncomfortable.,0,,Negative
+13,The pillow is poor.,0,,Negative
+14,This laptop feels not fast and works well.,1,fast,Negative
+15,This shoes turned out to be not slow.,1,slow,Positive
+16,Overall the watch seems fine.,0,,Neutral
+17,The camera is not useful.,1,useful,Neutral
+18,I found the watch quite bad.,0,,Negative
+19,The camera is not awful.,1,awful,Positive
+20,Overall the book seems not fair.,1,fair,Neutral
+21,The headphones is just not ordinary.,1,ordinary,Neutral
+22,The pillow is just ordinary.,0,,Neutral
+23,I found the headphones really good.,0,,Positive
+24,This headphones turned out to be not slow.,1,slow,Positive
+25,I found the laptop quite horrible.,0,,Negative
+26,I found the keyboard quite cheap.,0,,Negative
+27,Overall the phone seems average.,0,,Neutral
+28,The book is uncomfortable.,0,,Negative
+29,The headphones is amazing.,0,,Positive
+30,The camera is great.,0,,Positive
+31,I found the book quite not horrible.,1,horrible,Positive
+32,The headphones is just okay.,0,,Neutral
+33,Overall the laptop seems fine.,0,,Neutral
+34,"It feels not moderate, nothing special.",1,moderate,Neutral
+35,I found the book really fast.,0,,Positive
+36,The watch is just not decent.,1,decent,Neutral
+37,I found the pillow really durable.,0,,Positive
+38,The phone is not cheap.,1,cheap,Positive
+39,The headphones is horrible.,0,,Negative
+40,The keyboard is just not moderate.,1,moderate,Neutral
+41,Overall the book seems okay.,0,,Neutral
+42,The laptop is comfortable.,0,,Positive
+43,The bag is just moderate.,0,,Neutral
+44,This pillow turned out to be not cheap.,1,cheap,Neutral
+45,The headphones is helpful.,0,,Positive
+46,The headphones is horrible.,0,,Negative
+47,This phone turned out to be awful.,0,,Negative
+48,The camera is just decent.,0,,Neutral
+49,I found the watch really not great.,1,great,Neutral
+50,This book turned out to be cheap.,0,,Negative
+51,I found the headphones quite awful.,0,,Negative
+52,The camera is just not moderate.,1,moderate,Neutral
+53,"It feels ordinary, nothing special.",0,,Neutral
+54,This pillow feels not comfortable and works well.,1,comfortable,Negative
+55,I found the keyboard quite uncomfortable.,0,,Negative
+56,The keyboard is not awful.,1,awful,Neutral
+57,I found the pillow quite not cheap.,1,cheap,Positive
+58,I found the headphones really excellent.,0,,Positive
+59,I found the keyboard really good.,0,,Positive
+60,This phone feels not fast and works well.,1,fast,Neutral
+61,The book is just fair.,0,,Neutral
+62,I found the laptop quite not horrible.,1,horrible,Neutral
+63,I found the shoes really excellent.,0,,Positive
+64,I found the pillow really useful.,0,,Positive
+65,This watch turned out to be horrible.,0,,Negative
+66,"It feels fair, nothing special.",0,,Neutral
+67,Overall the pillow seems not fair.,1,fair,Neutral
+68,I found the headphones really durable.,0,,Positive
+69,The camera is comfortable.,0,,Positive
+70,The phone is just average.,0,,Neutral
+71,Overall the camera seems moderate.,0,,Neutral
+72,"It feels ordinary, nothing special.",0,,Neutral
+73,This shoes turned out to be uncomfortable.,0,,Negative
+74,This keyboard feels not useful and works well.,1,useful,Neutral
+75,This phone turned out to be not uncomfortable.,1,uncomfortable,Neutral
+76,Overall the headphones seems average.,0,,Neutral
+77,This bag turned out to be not poor.,1,poor,Positive
+78,The bag is not comfortable.,1,comfortable,Neutral
+79,"It feels moderate, nothing special.",0,,Neutral
+80,I found the bag quite not awful.,1,awful,Positive
+81,"It feels ordinary, nothing special.",0,,Neutral
+82,This headphones feels comfortable and works well.,0,,Positive
+83,This watch feels excellent and works well.,0,,Positive
+84,This keyboard turned out to be awful.,0,,Negative
+85,Overall the headphones seems fair.,0,,Neutral
+86,The headphones is not uncomfortable.,1,uncomfortable,Positive
+87,I found the book quite not horrible.,1,horrible,Neutral
+88,The book is durable.,0,,Positive
+89,The headphones is uncomfortable.,0,,Negative
+90,I found the bag really not excellent.,1,excellent,Neutral
+91,Overall the book seems okay.,0,,Neutral
+92,The shoes is not bad.,1,bad,Positive
+93,"It feels moderate, nothing special.",0,,Neutral
+94,This laptop turned out to be slow.,0,,Negative
+95,I found the bag really not durable.,1,durable,Negative
+96,Overall the bag seems ordinary.,0,,Neutral
+97,This watch feels useful and works well.,0,,Positive
+98,The laptop is just fine.,0,,Neutral
+99,I found the bag really fast.,0,,Positive
+100,The watch is bad.,0,,Negative
+101,This book turned out to be not uncomfortable.,1,uncomfortable,Neutral
+102,I found the phone quite awful.,0,,Negative
+103,"It feels average, nothing special.",0,,Neutral
+104,Overall the camera seems average.,0,,Neutral
+105,The book is not horrible.,1,horrible,Positive
+106,This pillow turned out to be poor.,0,,Negative
+107,The headphones is just fine.,0,,Neutral
+108,The phone is not great.,1,great,Neutral
+109,I found the shoes really not excellent.,1,excellent,Neutral
+110,The headphones is just ordinary.,0,,Neutral
+111,This laptop turned out to be cheap.,0,,Negative
+112,This bag feels not great and works well.,1,great,Neutral
+113,The shoes is just decent.,0,,Neutral
+114,Overall the camera seems moderate.,0,,Neutral
+115,The shoes is amazing.,0,,Positive
+116,I found the book quite cheap.,0,,Negative
+117,I found the pillow quite not slow.,1,slow,Neutral
+118,This book turned out to be slow.,0,,Negative
+119,The book is just moderate.,0,,Neutral
+120,The camera is horrible.,0,,Negative
+121,This pillow turned out to be poor.,0,,Negative
+122,I found the headphones really amazing.,0,,Positive
+123,"It feels fine, nothing special.",0,,Neutral
+124,I found the book quite terrible.,0,,Negative
+125,The camera is just not okay.,1,okay,Neutral
+126,This book feels useful and works well.,0,,Positive
+127,I found the phone really useful.,0,,Positive
+128,This camera turned out to be not poor.,1,poor,Neutral
+129,Overall the watch seems decent.,0,,Neutral
+130,Overall the book seems average.,0,,Neutral
+131,The watch is amazing.,0,,Positive
+132,"It feels fine, nothing special.",0,,Neutral
+133,This shoes turned out to be not uncomfortable.,1,uncomfortable,Neutral
+134,The book is excellent.,0,,Positive
+135,The camera is excellent.,0,,Positive
+136,This phone feels great and works well.,0,,Positive
+137,The laptop is just moderate.,0,,Neutral
+138,Overall the headphones seems not decent.,1,decent,Neutral
+139,I found the laptop quite not horrible.,1,horrible,Positive
+140,This shoes feels not useful and works well.,1,useful,Negative
+141,This camera turned out to be bad.,0,,Negative
+142,Overall the keyboard seems ordinary.,0,,Neutral
+143,This phone feels not good and works well.,1,good,Negative
+144,Overall the book seems decent.,0,,Neutral
+145,The shoes is bad.,0,,Negative
+146,The bag is just okay.,0,,Neutral
+147,I found the pillow really good.,0,,Positive
+148,The laptop is just fine.,0,,Neutral
+149,I found the book quite poor.,0,,Negative
+150,Overall the bag seems okay.,0,,Neutral
+151,The watch is useful.,0,,Positive
+152,"It feels okay, nothing special.",0,,Neutral
+153,This laptop turned out to be poor.,0,,Negative
+154,The headphones is durable.,0,,Positive
+155,The book is worst.,0,,Negative
+156,This watch feels useful and works well.,0,,Positive
+157,I found the laptop really amazing.,0,,Positive
+158,The phone is just not average.,1,average,Neutral
+159,The camera is just fair.,0,,Neutral
+160,I found the camera really not durable.,1,durable,Neutral
+161,The keyboard is just okay.,0,,Neutral
+162,This pillow turned out to be not terrible.,1,terrible,Positive
+163,This keyboard feels not durable and works well.,1,durable,Neutral
+164,The bag is not terrible.,1,terrible,Positive
+165,This book feels not useful and works well.,1,useful,Neutral
+166,The headphones is excellent.,0,,Positive
+167,This headphones feels fast and works well.,0,,Positive
+168,Overall the pillow seems fair.,0,,Neutral
+169,"It feels not okay, nothing special.",1,okay,Neutral
+170,This book feels amazing and works well.,0,,Positive
+171,The keyboard is just moderate.,0,,Neutral
+172,The camera is just moderate.,0,,Neutral
+173,This watch feels not good and works well.,1,good,Negative
+174,The watch is not awful.,1,awful,Neutral
+175,The watch is not great.,1,great,Negative
+176,"It feels decent, nothing special.",0,,Neutral
+177,The watch is just not fine.,1,fine,Neutral
+178,This shoes feels not useful and works well.,1,useful,Negative
+179,This pillow feels not useful and works well.,1,useful,Negative
+180,This book turned out to be not cheap.,1,cheap,Neutral
+181,"It feels not okay, nothing special.",1,okay,Neutral
+182,The watch is just not ordinary.,1,ordinary,Neutral
+183,Overall the laptop seems fine.,0,,Neutral
+184,The pillow is not helpful.,1,helpful,Neutral
+185,I found the shoes quite horrible.,0,,Negative
+186,This laptop feels not excellent and works well.,1,excellent,Negative
+187,Overall the shoes seems okay.,0,,Neutral
+188,This camera feels great and works well.,0,,Positive
+189,Overall the laptop seems fair.,0,,Neutral
+190,This laptop turned out to be not horrible.,1,horrible,Neutral
+191,The phone is not useful.,1,useful,Neutral
+192,The headphones is uncomfortable.,0,,Negative
+193,I found the laptop really helpful.,0,,Positive
+194,Overall the camera seems moderate.,0,,Neutral
+195,The pillow is fast.,0,,Positive
+196,The keyboard is just decent.,0,,Neutral
+197,This keyboard turned out to be not slow.,1,slow,Positive
+198,"It feels moderate, nothing special.",0,,Neutral
+199,Overall the laptop seems not moderate.,1,moderate,Neutral
+200,I found the headphones quite not bad.,1,bad,Positive
+201,The watch is cheap.,0,,Negative
+202,I found the pillow really durable.,0,,Positive
+203,This laptop feels not comfortable and works well.,1,comfortable,Neutral
+204,"It feels average, nothing special.",0,,Neutral
+205,This watch feels not good and works well.,1,good,Negative
+206,Overall the book seems fair.,0,,Neutral
+207,"It feels fine, nothing special.",0,,Neutral
+208,This book feels not good and works well.,1,good,Neutral
+209,The camera is comfortable.,0,,Positive
+210,Overall the phone seems ordinary.,0,,Neutral
+211,This shoes feels not great and works well.,1,great,Negative
+212,I found the book quite not awful.,1,awful,Positive
+213,This keyboard feels not helpful and works well.,1,helpful,Neutral
+214,The laptop is poor.,0,,Negative
+215,The keyboard is great.,0,,Positive
+216,This bag feels amazing and works well.,0,,Positive
+217,"It feels fine, nothing special.",0,,Neutral
+218,The keyboard is just okay.,0,,Neutral
+219,Overall the watch seems moderate.,0,,Neutral
+220,The keyboard is just decent.,0,,Neutral
+221,This camera turned out to be not poor.,1,poor,Positive
+222,"It feels not fair, nothing special.",1,fair,Neutral
+223,I found the shoes really not amazing.,1,amazing,Negative
+224,I found the shoes really amazing.,0,,Positive
+225,I found the phone quite cheap.,0,,Negative
+226,The camera is amazing.,0,,Positive
+227,The book is slow.,0,,Negative
+228,The keyboard is not excellent.,1,excellent,Negative
+229,"It feels moderate, nothing special.",0,,Neutral
+230,The bag is not slow.,1,slow,Positive
+231,I found the book really excellent.,0,,Positive
+232,The book is just decent.,0,,Neutral
+233,The watch is not comfortable.,1,comfortable,Negative
+234,This pillow feels not durable and works well.,1,durable,Negative
+235,Overall the camera seems average.,0,,Neutral
+236,The laptop is just not fair.,1,fair,Neutral
+237,I found the watch quite terrible.,0,,Negative
+238,I found the bag quite not horrible.,1,horrible,Positive
+239,I found the phone really excellent.,0,,Positive
+240,This pillow feels fast and works well.,0,,Positive
+241,The shoes is uncomfortable.,0,,Negative
+242,I found the watch really good.,0,,Positive
+243,"It feels ordinary, nothing special.",0,,Neutral
+244,This book turned out to be not slow.,1,slow,Positive
+245,The laptop is not comfortable.,1,comfortable,Negative
+246,I found the pillow really great.,0,,Positive
+247,I found the pillow quite not horrible.,1,horrible,Positive
+248,"It feels average, nothing special.",0,,Neutral
+249,The keyboard is just fair.,0,,Neutral
+250,The pillow is not useful.,1,useful,Neutral
+251,The bag is not fast.,1,fast,Negative
+252,I found the camera quite not poor.,1,poor,Positive
+253,Overall the keyboard seems okay.,0,,Neutral
+254,The laptop is just ordinary.,0,,Neutral
+255,This camera turned out to be worst.,0,,Negative
+256,Overall the pillow seems not okay.,1,okay,Neutral
+257,I found the keyboard quite not terrible.,1,terrible,Neutral
+258,"It feels ordinary, nothing special.",0,,Neutral
+259,I found the bag quite terrible.,0,,Negative
+260,I found the pillow quite bad.,0,,Negative
+261,Overall the camera seems fair.,0,,Neutral
+262,I found the headphones quite horrible.,0,,Negative
+263,This phone turned out to be not awful.,1,awful,Positive
+264,This phone turned out to be poor.,0,,Negative
+265,The camera is comfortable.,0,,Positive
+266,This pillow feels not good and works well.,1,good,Negative
+267,This shoes turned out to be uncomfortable.,0,,Negative
+268,I found the shoes quite terrible.,0,,Negative
+269,The pillow is amazing.,0,,Positive
+270,"It feels okay, nothing special.",0,,Neutral
+271,The bag is amazing.,0,,Positive
+272,The laptop is just fair.,0,,Neutral
+273,The pillow is just not okay.,1,okay,Neutral
+274,The phone is horrible.,0,,Negative
+275,"It feels moderate, nothing special.",0,,Neutral
+276,This keyboard feels not useful and works well.,1,useful,Negative
+277,I found the phone really not comfortable.,1,comfortable,Negative
+278,The keyboard is just fine.,0,,Neutral
+279,The book is comfortable.,0,,Positive
+280,The keyboard is just fine.,0,,Neutral
+281,The camera is durable.,0,,Positive
+282,Overall the laptop seems moderate.,0,,Neutral
+283,The laptop is comfortable.,0,,Positive
+284,The phone is bad.,0,,Negative
+285,The book is just not okay.,1,okay,Neutral
+286,I found the pillow really not comfortable.,1,comfortable,Neutral
+287,Overall the keyboard seems not okay.,1,okay,Neutral
+288,"It feels not fair, nothing special.",1,fair,Neutral
+289,I found the bag really amazing.,0,,Positive
+290,The laptop is not excellent.,1,excellent,Negative
+291,I found the book really not useful.,1,useful,Negative
+292,This keyboard turned out to be cheap.,0,,Negative
+293,The watch is just not fair.,1,fair,Neutral
+294,"It feels not average, nothing special.",1,average,Neutral
+295,This pillow feels not good and works well.,1,good,Neutral
+296,I found the pillow quite terrible.,0,,Negative
+297,The keyboard is comfortable.,0,,Positive
+298,This headphones turned out to be poor.,0,,Negative
+299,Overall the camera seems decent.,0,,Neutral
+300,The pillow is just fine.,0,,Neutral
+301,This bag turned out to be awful.,0,,Negative
+302,The headphones is fast.,0,,Positive
+303,I found the camera really not great.,1,great,Negative
+304,This keyboard feels helpful and works well.,0,,Positive
+305,The bag is not horrible.,1,horrible,Neutral
+306,"It feels not fair, nothing special.",1,fair,Neutral
+307,This book turned out to be not horrible.,1,horrible,Neutral
+308,This camera feels comfortable and works well.,0,,Positive
+309,The headphones is just fine.,0,,Neutral
+310,This headphones turned out to be not horrible.,1,horrible,Neutral
+311,I found the pillow quite bad.,0,,Negative
+312,The shoes is excellent.,0,,Positive
+313,The shoes is not terrible.,1,terrible,Positive
+314,I found the keyboard really useful.,0,,Positive
+315,I found the watch really good.,0,,Positive
+316,This shoes turned out to be bad.,0,,Negative
+317,This watch feels not durable and works well.,1,durable,Negative
+318,The laptop is uncomfortable.,0,,Negative
+319,I found the camera really excellent.,0,,Positive
+320,The pillow is comfortable.,0,,Positive
+321,"It feels ordinary, nothing special.",0,,Neutral
+322,This watch feels not great and works well.,1,great,Negative
+323,I found the book quite not cheap.,1,cheap,Neutral
+324,The bag is just decent.,0,,Neutral
+325,I found the pillow quite cheap.,0,,Negative
+326,Overall the headphones seems okay.,0,,Neutral
+327,The shoes is just average.,0,,Neutral
+328,Overall the phone seems ordinary.,0,,Neutral
+329,The phone is not cheap.,1,cheap,Positive
+330,This bag turned out to be bad.,0,,Negative
+331,The camera is fast.,0,,Positive
+332,The book is poor.,0,,Negative
+333,"It feels fine, nothing special.",0,,Neutral
+334,This camera turned out to be not awful.,1,awful,Positive
+335,I found the laptop quite not terrible.,1,terrible,Positive
+336,I found the camera quite not poor.,1,poor,Neutral
+337,This pillow feels not excellent and works well.,1,excellent,Neutral
+338,I found the headphones really fast.,0,,Positive
+339,I found the book quite awful.,0,,Negative
+340,Overall the bag seems fine.,0,,Neutral
+341,I found the book quite horrible.,0,,Negative
+342,The keyboard is not durable.,1,durable,Negative
+343,The phone is not awful.,1,awful,Neutral
+344,I found the laptop quite worst.,0,,Negative
+345,This keyboard turned out to be slow.,0,,Negative
+346,"It feels fine, nothing special.",0,,Neutral
+347,The book is not durable.,1,durable,Negative
+348,I found the laptop really useful.,0,,Positive
+349,The bag is amazing.,0,,Positive
+350,Overall the camera seems not fair.,1,fair,Neutral
+351,The shoes is not amazing.,1,amazing,Negative
+352,The pillow is excellent.,0,,Positive
+353,This watch turned out to be terrible.,0,,Negative
+354,I found the headphones really not comfortable.,1,comfortable,Neutral
+355,The camera is just not okay.,1,okay,Neutral
+356,Overall the shoes seems average.,0,,Neutral
+357,Overall the watch seems decent.,0,,Neutral
+358,This shoes turned out to be uncomfortable.,0,,Negative
+359,"It feels okay, nothing special.",0,,Neutral
+360,The phone is not uncomfortable.,1,uncomfortable,Positive
+361,Overall the phone seems fair.,0,,Neutral
+362,The book is worst.,0,,Negative
+363,"It feels okay, nothing special.",0,,Neutral
+364,I found the keyboard quite bad.,0,,Negative
+365,The headphones is poor.,0,,Negative
+366,This pillow turned out to be not bad.,1,bad,Positive
+367,I found the headphones really great.,0,,Positive
+368,The phone is just okay.,0,,Neutral
+369,Overall the watch seems ordinary.,0,,Neutral
+370,This book feels not great and works well.,1,great,Negative
+371,Overall the shoes seems decent.,0,,Neutral
+372,"It feels decent, nothing special.",0,,Neutral
+373,Overall the shoes seems not ordinary.,1,ordinary,Neutral
+374,I found the shoes really helpful.,0,,Positive
+375,Overall the bag seems decent.,0,,Neutral
+376,Overall the shoes seems ordinary.,0,,Neutral
+377,This camera turned out to be not uncomfortable.,1,uncomfortable,Positive
+378,This headphones feels useful and works well.,0,,Positive
+379,I found the keyboard really not excellent.,1,excellent,Neutral
+380,The bag is comfortable.,0,,Positive
+381,The book is just average.,0,,Neutral
+382,I found the laptop quite worst.,0,,Negative
+383,The phone is not fast.,1,fast,Neutral
+384,The headphones is just okay.,0,,Neutral
+385,The laptop is just fine.,0,,Neutral
+386,I found the watch really excellent.,0,,Positive
+387,"It feels ordinary, nothing special.",0,,Neutral
+388,The camera is not useful.,1,useful,Neutral
+389,I found the keyboard really not durable.,1,durable,Neutral
+390,I found the book quite not cheap.,1,cheap,Positive
+391,This headphones feels useful and works well.,0,,Positive
+392,This headphones turned out to be bad.,0,,Negative
+393,I found the laptop really useful.,0,,Positive
+394,I found the book quite horrible.,0,,Negative
+395,The phone is good.,0,,Positive
+396,This watch feels useful and works well.,0,,Positive
+397,"It feels okay, nothing special.",0,,Neutral
+398,Overall the shoes seems fair.,0,,Neutral
+399,I found the watch quite not poor.,1,poor,Neutral
+400,Overall the pillow seems fine.,0,,Neutral
+401,The shoes is not uncomfortable.,1,uncomfortable,Neutral
+402,I found the book really excellent.,0,,Positive
+403,This phone turned out to be uncomfortable.,0,,Negative
+404,I found the pillow quite not horrible.,1,horrible,Neutral
+405,The shoes is not useful.,1,useful,Negative
+406,The watch is good.,0,,Positive
+407,The laptop is just fair.,0,,Neutral
+408,I found the bag quite worst.,0,,Negative
+409,This shoes feels not useful and works well.,1,useful,Negative
+410,Overall the book seems not fine.,1,fine,Neutral
+411,This camera feels not durable and works well.,1,durable,Negative
+412,The watch is not fast.,1,fast,Neutral
+413,Overall the book seems okay.,0,,Neutral
+414,I found the headphones quite not horrible.,1,horrible,Positive
+415,The pillow is not comfortable.,1,comfortable,Negative
+416,The camera is just average.,0,,Neutral
+417,I found the shoes really fast.,0,,Positive
+418,Overall the book seems fine.,0,,Neutral
+419,"It feels moderate, nothing special.",0,,Neutral
+420,The phone is cheap.,0,,Negative
+421,The pillow is excellent.,0,,Positive
+422,The watch is just okay.,0,,Neutral
+423,Overall the pillow seems okay.,0,,Neutral
+424,This pillow feels amazing and works well.,0,,Positive
+425,I found the shoes quite not slow.,1,slow,Positive
+426,Overall the bag seems decent.,0,,Neutral
+427,Overall the book seems ordinary.,0,,Neutral
+428,This pillow turned out to be not poor.,1,poor,Neutral
+429,The phone is just fine.,0,,Neutral
+430,The pillow is just okay.,0,,Neutral
+431,I found the keyboard quite awful.,0,,Negative
+432,This watch turned out to be not worst.,1,worst,Positive
+433,"It feels moderate, nothing special.",0,,Neutral
+434,The bag is worst.,0,,Negative
+435,This watch feels amazing and works well.,0,,Positive
+436,The shoes is worst.,0,,Negative
+437,I found the book really not amazing.,1,amazing,Neutral
+438,"It feels moderate, nothing special.",0,,Neutral
+439,The headphones is not durable.,1,durable,Neutral
+440,This watch feels useful and works well.,0,,Positive
+441,"It feels fair, nothing special.",0,,Neutral
+442,The watch is uncomfortable.,0,,Negative
+443,Overall the laptop seems moderate.,0,,Neutral
+444,The book is not good.,1,good,Neutral
+445,Overall the headphones seems not ordinary.,1,ordinary,Neutral
+446,I found the book quite not poor.,1,poor,Neutral
+447,The keyboard is just not decent.,1,decent,Neutral
+448,The bag is not helpful.,1,helpful,Negative
+449,This pillow feels great and works well.,0,,Positive
+450,This phone feels comfortable and works well.,0,,Positive
+451,This shoes feels comfortable and works well.,0,,Positive
+452,The book is not uncomfortable.,1,uncomfortable,Neutral
+453,Overall the watch seems average.,0,,Neutral
+454,The phone is just moderate.,0,,Neutral
+455,This phone turned out to be not cheap.,1,cheap,Neutral
+456,The camera is just average.,0,,Neutral
+457,I found the watch quite not slow.,1,slow,Neutral
+458,This pillow feels not useful and works well.,1,useful,Negative
+459,I found the phone really fast.,0,,Positive
+460,The keyboard is not great.,1,great,Neutral
+461,This laptop feels not fast and works well.,1,fast,Neutral
+462,The shoes is not worst.,1,worst,Neutral
+463,This laptop turned out to be awful.,0,,Negative
+464,The headphones is just fair.,0,,Neutral
+465,The headphones is just okay.,0,,Neutral
+466,The keyboard is poor.,0,,Negative
+467,The pillow is just moderate.,0,,Neutral
+468,The watch is just fine.,0,,Neutral
+469,I found the headphones quite terrible.,0,,Negative
+470,The laptop is bad.,0,,Negative
+471,The laptop is just not average.,1,average,Neutral
+472,This phone feels not helpful and works well.,1,helpful,Neutral
+473,Overall the laptop seems fair.,0,,Neutral
+474,The keyboard is fast.,0,,Positive
+475,Overall the pillow seems okay.,0,,Neutral
+476,The bag is just not moderate.,1,moderate,Neutral
+477,"It feels not fair, nothing special.",1,fair,Neutral
+478,I found the bag quite terrible.,0,,Negative
+479,I found the keyboard quite slow.,0,,Negative
+480,This shoes turned out to be horrible.,0,,Negative
+481,This book turned out to be cheap.,0,,Negative
+482,"It feels not fair, nothing special.",1,fair,Neutral
+483,"It feels okay, nothing special.",0,,Neutral
+484,This camera feels not amazing and works well.,1,amazing,Neutral
+485,This laptop turned out to be bad.,0,,Negative
+486,The camera is great.,0,,Positive
+487,This shoes turned out to be awful.,0,,Negative
+488,The phone is bad.,0,,Negative
+489,Overall the watch seems fine.,0,,Neutral
+490,The bag is just fair.,0,,Neutral
+491,The watch is not comfortable.,1,comfortable,Negative
+492,I found the bag really helpful.,0,,Positive
+493,This book feels useful and works well.,0,,Positive
+494,"It feels ordinary, nothing special.",0,,Neutral
+495,I found the camera quite not worst.,1,worst,Positive
+496,"It feels okay, nothing special.",0,,Neutral
+497,Overall the laptop seems fair.,0,,Neutral
+498,Overall the phone seems moderate.,0,,Neutral
+499,This laptop feels useful and works well.,0,,Positive
+500,This pillow turned out to be horrible.,0,,Negative
