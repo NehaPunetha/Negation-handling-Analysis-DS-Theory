@@ -1,0 +1,501 @@
+review_text,has_negation,true_label
+"A never horrible experience, won't return.",True,Negative
+I absolutely not loved this product.,True,Positive
+Did not meet my expectations at all.,False,Negative
+Exceeded my expectations in every way.,False,Positive
+I absolutely scarcely loved this product.,True,Positive
+"I hated this product, very disappointed.",False,Negative
+Extremely poor quality and useless at all.,False,Negative
+A wonderful experience from start to finish.,False,Positive
+"This is a great purchase, highly recommend at all.",False,Positive
+"This was a at all terrible purchase, do not buy.",True,Negative
+Really at all happy with the quality and performance.,True,Positive
+Exceeded my expectations in every way at all.,False,Positive
+"I hardly hated this product, very disappointed.",True,Negative
+I absolutely loved this product.,False,Positive
+"A hardly horrible experience, won't return at all.",True,Negative
+I not at all think did not meet my expectations at all.,True,Negative
+Extremely poor quality and useless.,False,Negative
+Exceeded my expectations in every way.,False,Positive
+Did not meet my expectations at all.,False,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+Did not meet my expectations at all.,False,Negative
+"I hated this product, very disappointed.",False,Negative
+"A not horrible experience, won't return.",True,Negative
+"I hated this product, very disappointed.",False,Negative
+A wonderful experience from start to finish.,False,Positive
+"A horrible experience, won't return.",False,Negative
+"A not horrible experience, won't return at all.",True,Negative
+Really scarcely happy with the quality and performance.,True,Positive
+Really no happy with the quality and performance.,True,Positive
+"I hated this product, very disappointed at all.",False,Negative
+"A horrible experience, won't return.",False,Negative
+Did not meet my expectations at all.,False,Negative
+"A horrible experience, won't return.",False,Negative
+A wonderful experience from start to finish at all.,False,Positive
+A at all wonderful experience from start to finish.,True,Positive
+Extremely poor quality and useless.,False,Negative
+"A horrible experience, won't return.",False,Negative
+I absolutely loved this product.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+I absolutely loved this product.,False,Positive
+I at all think did not meet my expectations at all.,True,Negative
+A wonderful experience from start to finish.,False,Positive
+Extremely at all poor quality and useless.,True,Negative
+Really hardly happy with the quality and performance.,True,Positive
+"This is a great purchase, highly recommend.",False,Positive
+"This is a not great purchase, highly recommend.",True,Positive
+I absolutely no loved this product.,True,Positive
+Really happy with the quality and performance.,False,Positive
+"A horrible experience, won't return at all.",False,Negative
+Really happy with the quality and performance.,False,Positive
+at all Exceeded my expectations in every way.,True,Positive
+I absolutely loved this product.,False,Positive
+I absolutely loved this product.,False,Positive
+"This was a hardly terrible purchase, do not buy at all.",True,Negative
+A wonderful experience from start to finish.,False,Positive
+I absolutely not loved this product.,True,Positive
+I absolutely loved this product.,False,Positive
+Exceeded my expectations in every way.,False,Positive
+I absolutely loved this product.,False,Positive
+A no wonderful experience from start to finish at all.,True,Positive
+Extremely poor quality and useless.,False,Negative
+"I hated this product, very disappointed.",False,Negative
+Extremely poor quality and useless.,False,Negative
+Did not meet my expectations at all.,False,Negative
+A wonderful experience from start to finish.,False,Positive
+Really happy with the quality and performance.,False,Positive
+"A not horrible experience, won't return.",True,Negative
+no Exceeded my expectations in every way.,True,Positive
+Really no happy with the quality and performance.,True,Positive
+"A horrible experience, won't return.",False,Negative
+Extremely no poor quality and useless.,True,Negative
+"A horrible experience, won't return.",False,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+Did not meet my expectations at all.,False,Negative
+Did not meet my expectations at all.,False,Negative
+"I hated this product, very disappointed.",False,Negative
+I scarcely think did not meet my expectations at all.,True,Negative
+A scarcely wonderful experience from start to finish.,True,Positive
+"A no horrible experience, won't return.",True,Negative
+Extremely poor quality and useless.,False,Negative
+Exceeded my expectations in every way.,False,Positive
+"This is a great purchase, highly recommend.",False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+A wonderful experience from start to finish.,False,Positive
+I hardly think did not meet my expectations at all.,True,Negative
+I absolutely never loved this product.,True,Positive
+I absolutely loved this product.,False,Positive
+"I scarcely hated this product, very disappointed.",True,Negative
+Extremely poor quality and useless.,False,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+"I hated this product, very disappointed.",False,Negative
+"A no horrible experience, won't return.",True,Negative
+"This was a never terrible purchase, do not buy.",True,Negative
+Extremely never poor quality and useless.,True,Negative
+Extremely not at all poor quality and useless.,True,Negative
+"A at all horrible experience, won't return.",True,Negative
+Really at all happy with the quality and performance.,True,Positive
+Really happy with the quality and performance.,False,Positive
+Did not meet my expectations at all.,False,Negative
+"This is a great purchase, highly recommend at all.",False,Positive
+"This is a great purchase, highly recommend.",False,Positive
+"A not at all horrible experience, won't return.",True,Negative
+Really happy with the quality and performance.,False,Positive
+"I hated this product, very disappointed.",False,Negative
+Extremely poor quality and useless.,False,Negative
+A wonderful experience from start to finish.,False,Positive
+"I hated this product, very disappointed.",False,Negative
+I absolutely loved this product.,False,Positive
+"A horrible experience, won't return.",False,Negative
+Really happy with the quality and performance.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+"I hated this product, very disappointed.",False,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+never Exceeded my expectations in every way.,True,Positive
+"I at all hated this product, very disappointed.",True,Negative
+Extremely poor quality and useless.,False,Negative
+I absolutely loved this product.,False,Positive
+Exceeded my expectations in every way.,False,Positive
+not at all Exceeded my expectations in every way.,True,Positive
+Really happy with the quality and performance.,False,Positive
+Really never happy with the quality and performance.,True,Positive
+Really no happy with the quality and performance.,True,Positive
+Extremely poor quality and useless.,False,Negative
+A wonderful experience from start to finish.,False,Positive
+"This is a great purchase, highly recommend.",False,Positive
+I absolutely loved this product.,False,Positive
+"I no hated this product, very disappointed.",True,Negative
+A wonderful experience from start to finish.,False,Positive
+I absolutely loved this product.,False,Positive
+I never think did not meet my expectations at all.,True,Negative
+"This is a great purchase, highly recommend.",False,Positive
+"This is a great purchase, highly recommend at all.",False,Positive
+"This was a not at all terrible purchase, do not buy.",True,Negative
+"I not at all hated this product, very disappointed.",True,Negative
+"This is a great purchase, highly recommend.",False,Positive
+I absolutely scarcely loved this product at all.,True,Positive
+A wonderful experience from start to finish.,False,Positive
+I absolutely not loved this product.,True,Positive
+"This is a great purchase, highly recommend.",False,Positive
+Did not meet my expectations at all.,False,Negative
+I absolutely never loved this product.,True,Positive
+"This is a scarcely great purchase, highly recommend.",True,Positive
+Extremely poor quality and useless.,False,Negative
+A not at all wonderful experience from start to finish.,True,Positive
+Extremely hardly poor quality and useless.,True,Negative
+"This was a never terrible purchase, do not buy.",True,Negative
+A no wonderful experience from start to finish.,True,Positive
+A never wonderful experience from start to finish.,True,Positive
+Did not meet my expectations at all.,False,Negative
+Extremely not poor quality and useless.,True,Negative
+A wonderful experience from start to finish.,False,Positive
+I absolutely loved this product at all.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+"This is a great purchase, highly recommend.",False,Positive
+Extremely poor quality and useless.,False,Negative
+"I hated this product, very disappointed.",False,Negative
+I absolutely never loved this product.,True,Positive
+A wonderful experience from start to finish.,False,Positive
+I scarcely think did not meet my expectations at all.,True,Negative
+never Exceeded my expectations in every way.,True,Positive
+A wonderful experience from start to finish.,False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+Extremely not at all poor quality and useless.,True,Negative
+A wonderful experience from start to finish.,False,Positive
+"I not at all hated this product, very disappointed.",True,Negative
+"I hated this product, very disappointed.",False,Negative
+A wonderful experience from start to finish.,False,Positive
+"This is a great purchase, highly recommend.",False,Positive
+"This was a scarcely terrible purchase, do not buy.",True,Negative
+I absolutely loved this product.,False,Positive
+I absolutely loved this product.,False,Positive
+"This is a not great purchase, highly recommend.",True,Positive
+I never think did not meet my expectations at all.,True,Negative
+not at all Exceeded my expectations in every way.,True,Positive
+Really happy with the quality and performance.,False,Positive
+"This is a at all great purchase, highly recommend.",True,Positive
+"I hated this product, very disappointed.",False,Negative
+I absolutely loved this product.,False,Positive
+Exceeded my expectations in every way.,False,Positive
+"I hated this product, very disappointed.",False,Negative
+Extremely poor quality and useless.,False,Negative
+Really at all happy with the quality and performance.,True,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+Did not meet my expectations at all.,False,Negative
+Did not meet my expectations at all.,False,Negative
+A not at all wonderful experience from start to finish.,True,Positive
+"This was a not at all terrible purchase, do not buy.",True,Negative
+"This is a great purchase, highly recommend.",False,Positive
+Exceeded my expectations in every way at all.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+"I not hated this product, very disappointed.",True,Negative
+Did not meet my expectations at all.,False,Negative
+"A horrible experience, won't return.",False,Negative
+"I hated this product, very disappointed.",False,Negative
+"This is a great purchase, highly recommend.",False,Positive
+Really happy with the quality and performance at all.,False,Positive
+Exceeded my expectations in every way.,False,Positive
+"This is a great purchase, highly recommend.",False,Positive
+Exceeded my expectations in every way.,False,Positive
+"This was a terrible purchase, do not buy at all.",False,Negative
+Extremely no poor quality and useless.,True,Negative
+A hardly wonderful experience from start to finish at all.,True,Positive
+Exceeded my expectations in every way.,False,Positive
+Exceeded my expectations in every way.,False,Positive
+Exceeded my expectations in every way.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+"This is a hardly great purchase, highly recommend.",True,Positive
+Really happy with the quality and performance.,False,Positive
+I never think did not meet my expectations at all.,True,Negative
+"A horrible experience, won't return at all.",False,Negative
+"A horrible experience, won't return at all.",False,Negative
+"This is a scarcely great purchase, highly recommend.",True,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+"A horrible experience, won't return.",False,Negative
+I no think did not meet my expectations at all.,True,Negative
+Extremely scarcely poor quality and useless.,True,Negative
+"A horrible experience, won't return.",False,Negative
+I absolutely not at all loved this product.,True,Positive
+Did not meet my expectations at all.,False,Negative
+I absolutely loved this product.,False,Positive
+"A horrible experience, won't return.",False,Negative
+"A horrible experience, won't return.",False,Negative
+A wonderful experience from start to finish at all.,False,Positive
+no Exceeded my expectations in every way.,True,Positive
+Exceeded my expectations in every way.,False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+A wonderful experience from start to finish.,False,Positive
+"A horrible experience, won't return.",False,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+I absolutely loved this product.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+I absolutely loved this product.,False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+Really happy with the quality and performance at all.,False,Positive
+"This was a not at all terrible purchase, do not buy.",True,Negative
+I never think did not meet my expectations at all.,True,Negative
+"I not hated this product, very disappointed.",True,Negative
+"This is a no great purchase, highly recommend.",True,Positive
+I absolutely loved this product.,False,Positive
+not at all Exceeded my expectations in every way.,True,Positive
+Did not meet my expectations at all.,False,Negative
+"This is a great purchase, highly recommend.",False,Positive
+"I hated this product, very disappointed.",False,Negative
+I absolutely loved this product.,False,Positive
+Extremely poor quality and useless.,False,Negative
+A wonderful experience from start to finish.,False,Positive
+"This is a not great purchase, highly recommend.",True,Positive
+Really happy with the quality and performance.,False,Positive
+"A at all horrible experience, won't return.",True,Negative
+Exceeded my expectations in every way.,False,Positive
+I never think did not meet my expectations at all.,True,Negative
+"This was a not at all terrible purchase, do not buy.",True,Negative
+"This was a not at all terrible purchase, do not buy.",True,Negative
+A wonderful experience from start to finish.,False,Positive
+Extremely scarcely poor quality and useless.,True,Negative
+Did not meet my expectations at all.,False,Negative
+"This is a great purchase, highly recommend.",False,Positive
+"I hated this product, very disappointed.",False,Negative
+scarcely Exceeded my expectations in every way.,True,Positive
+"I hated this product, very disappointed.",False,Negative
+I not at all think did not meet my expectations at all.,True,Negative
+Really no happy with the quality and performance at all.,True,Positive
+Extremely scarcely poor quality and useless.,True,Negative
+"This is a not great purchase, highly recommend.",True,Positive
+"This is a not great purchase, highly recommend.",True,Positive
+never Exceeded my expectations in every way.,True,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+"This is a hardly great purchase, highly recommend.",True,Positive
+Did not meet my expectations at all.,False,Negative
+A not wonderful experience from start to finish.,True,Positive
+Exceeded my expectations in every way.,False,Positive
+at all Exceeded my expectations in every way.,True,Positive
+Really happy with the quality and performance.,False,Positive
+"I not at all hated this product, very disappointed.",True,Negative
+"I hated this product, very disappointed.",False,Negative
+Did not meet my expectations at all.,False,Negative
+"I no hated this product, very disappointed.",True,Negative
+Extremely hardly poor quality and useless.,True,Negative
+Extremely not at all poor quality and useless.,True,Negative
+Really happy with the quality and performance.,False,Positive
+Extremely poor quality and useless.,False,Negative
+not Exceeded my expectations in every way.,True,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+Really happy with the quality and performance.,False,Positive
+"This is a great purchase, highly recommend at all.",False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+Did not meet my expectations at all.,False,Negative
+Extremely poor quality and useless.,False,Negative
+I not think did not meet my expectations at all.,True,Negative
+"This was a terrible purchase, do not buy at all.",False,Negative
+Extremely no poor quality and useless.,True,Negative
+"A horrible experience, won't return at all.",False,Negative
+I not think did not meet my expectations at all.,True,Negative
+Extremely never poor quality and useless.,True,Negative
+"This is a great purchase, highly recommend.",False,Positive
+A no wonderful experience from start to finish.,True,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+"This was a scarcely terrible purchase, do not buy.",True,Negative
+"A horrible experience, won't return.",False,Negative
+Did not meet my expectations at all.,False,Negative
+Extremely not at all poor quality and useless.,True,Negative
+Really happy with the quality and performance at all.,False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+I absolutely loved this product.,False,Positive
+I absolutely never loved this product.,True,Positive
+Exceeded my expectations in every way.,False,Positive
+Did not meet my expectations at all.,False,Negative
+hardly Exceeded my expectations in every way.,True,Positive
+"This is a not at all great purchase, highly recommend.",True,Positive
+Really not happy with the quality and performance.,True,Positive
+"A horrible experience, won't return.",False,Negative
+Exceeded my expectations in every way.,False,Positive
+Extremely no poor quality and useless.,True,Negative
+Extremely poor quality and useless.,False,Negative
+Really at all happy with the quality and performance.,True,Positive
+"A horrible experience, won't return.",False,Negative
+"I scarcely hated this product, very disappointed.",True,Negative
+Really happy with the quality and performance.,False,Positive
+Extremely poor quality and useless.,False,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+Really happy with the quality and performance.,False,Positive
+Extremely poor quality and useless.,False,Negative
+"This is a great purchase, highly recommend.",False,Positive
+"A horrible experience, won't return.",False,Negative
+I absolutely scarcely loved this product.,True,Positive
+Did not meet my expectations at all.,False,Negative
+A no wonderful experience from start to finish.,True,Positive
+Really happy with the quality and performance at all.,False,Positive
+I absolutely loved this product.,False,Positive
+Did not meet my expectations at all.,False,Negative
+I absolutely never loved this product.,True,Positive
+A at all wonderful experience from start to finish.,True,Positive
+A wonderful experience from start to finish.,False,Positive
+never Exceeded my expectations in every way.,True,Positive
+Really happy with the quality and performance.,False,Positive
+"This is a great purchase, highly recommend.",False,Positive
+Extremely poor quality and useless.,False,Negative
+"A not horrible experience, won't return.",True,Negative
+A not wonderful experience from start to finish.,True,Positive
+A scarcely wonderful experience from start to finish.,True,Positive
+A hardly wonderful experience from start to finish.,True,Positive
+A wonderful experience from start to finish.,False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+Extremely poor quality and useless.,False,Negative
+not Exceeded my expectations in every way.,True,Positive
+A wonderful experience from start to finish.,False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+"A horrible experience, won't return.",False,Negative
+Really hardly happy with the quality and performance.,True,Positive
+Did not meet my expectations at all.,False,Negative
+Did not meet my expectations at all.,False,Negative
+"A horrible experience, won't return.",False,Negative
+A never wonderful experience from start to finish.,True,Positive
+Extremely poor quality and useless.,False,Negative
+Did not meet my expectations at all.,False,Negative
+I absolutely at all loved this product.,True,Positive
+not Exceeded my expectations in every way.,True,Positive
+"I hardly hated this product, very disappointed.",True,Negative
+Really happy with the quality and performance.,False,Positive
+"This is a great purchase, highly recommend.",False,Positive
+Really scarcely happy with the quality and performance.,True,Positive
+"A horrible experience, won't return.",False,Negative
+Really not happy with the quality and performance.,True,Positive
+A wonderful experience from start to finish.,False,Positive
+Really never happy with the quality and performance.,True,Positive
+not Exceeded my expectations in every way.,True,Positive
+Did not meet my expectations at all.,False,Negative
+"I hated this product, very disappointed.",False,Negative
+A not at all wonderful experience from start to finish.,True,Positive
+Extremely not at all poor quality and useless.,True,Negative
+Exceeded my expectations in every way.,False,Positive
+"I hated this product, very disappointed.",False,Negative
+Exceeded my expectations in every way.,False,Positive
+Extremely not at all poor quality and useless.,True,Negative
+I scarcely think did not meet my expectations at all.,True,Negative
+not at all Exceeded my expectations in every way.,True,Positive
+"A horrible experience, won't return.",False,Negative
+Exceeded my expectations in every way.,False,Positive
+Exceeded my expectations in every way.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+I absolutely loved this product.,False,Positive
+I no think did not meet my expectations at all.,True,Negative
+"This is a not at all great purchase, highly recommend.",True,Positive
+"I at all hated this product, very disappointed.",True,Negative
+I scarcely think did not meet my expectations at all.,True,Negative
+Exceeded my expectations in every way.,False,Positive
+Did not meet my expectations at all.,False,Negative
+A wonderful experience from start to finish.,False,Positive
+Really happy with the quality and performance.,False,Positive
+Really happy with the quality and performance.,False,Positive
+Extremely poor quality and useless.,False,Negative
+"This was a not at all terrible purchase, do not buy.",True,Negative
+Extremely poor quality and useless.,False,Negative
+Really hardly happy with the quality and performance.,True,Positive
+I not at all think did not meet my expectations at all.,True,Negative
+Extremely poor quality and useless.,False,Negative
+"I hated this product, very disappointed.",False,Negative
+"A horrible experience, won't return.",False,Negative
+"This is a great purchase, highly recommend.",False,Positive
+Really happy with the quality and performance.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+Extremely poor quality and useless at all.,False,Negative
+Extremely poor quality and useless.,False,Negative
+"This was a hardly terrible purchase, do not buy.",True,Negative
+Extremely poor quality and useless.,False,Negative
+Did not meet my expectations at all.,False,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+"A horrible experience, won't return.",False,Negative
+"This is a great purchase, highly recommend.",False,Positive
+at all Exceeded my expectations in every way.,True,Positive
+"This is a not at all great purchase, highly recommend.",True,Positive
+"This is a scarcely great purchase, highly recommend.",True,Positive
+"A horrible experience, won't return.",False,Negative
+A wonderful experience from start to finish.,False,Positive
+Did not meet my expectations at all.,False,Negative
+"A not horrible experience, won't return.",True,Negative
+A no wonderful experience from start to finish.,True,Positive
+"This is a great purchase, highly recommend.",False,Positive
+"I not hated this product, very disappointed.",True,Negative
+"This is a great purchase, highly recommend.",False,Positive
+Extremely poor quality and useless.,False,Negative
+Extremely poor quality and useless.,False,Negative
+I absolutely loved this product.,False,Positive
+"I scarcely hated this product, very disappointed.",True,Negative
+A hardly wonderful experience from start to finish.,True,Positive
+not at all Exceeded my expectations in every way.,True,Positive
+Exceeded my expectations in every way.,False,Positive
+I hardly think did not meet my expectations at all.,True,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+"I no hated this product, very disappointed.",True,Negative
+"This is a great purchase, highly recommend.",False,Positive
+Extremely poor quality and useless.,False,Negative
+"A at all horrible experience, won't return.",True,Negative
+Exceeded my expectations in every way.,False,Positive
+"I hated this product, very disappointed.",False,Negative
+Extremely poor quality and useless.,False,Negative
+never Exceeded my expectations in every way.,True,Positive
+I absolutely loved this product.,False,Positive
+Extremely poor quality and useless.,False,Negative
+Really happy with the quality and performance.,False,Positive
+Extremely poor quality and useless.,False,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+Really happy with the quality and performance.,False,Positive
+"I hated this product, very disappointed.",False,Negative
+Extremely not poor quality and useless.,True,Negative
+Exceeded my expectations in every way.,False,Positive
+"I no hated this product, very disappointed.",True,Negative
+"This was a terrible purchase, do not buy.",False,Negative
+"I hardly hated this product, very disappointed.",True,Negative
+"This is a great purchase, highly recommend.",False,Positive
+Really happy with the quality and performance.,False,Positive
+"A not at all horrible experience, won't return.",True,Negative
+"This is a at all great purchase, highly recommend.",True,Positive
+Did not meet my expectations at all.,False,Negative
+at all Exceeded my expectations in every way.,True,Positive
+I no think did not meet my expectations at all.,True,Negative
+Exceeded my expectations in every way.,False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+Really not happy with the quality and performance.,True,Positive
+Really happy with the quality and performance at all.,False,Positive
+I absolutely loved this product.,False,Positive
+I absolutely at all loved this product.,True,Positive
+Extremely poor quality and useless.,False,Negative
+"This is a not great purchase, highly recommend.",True,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+"This is a at all great purchase, highly recommend.",True,Positive
+Did not meet my expectations at all.,False,Negative
+I scarcely think did not meet my expectations at all.,True,Negative
+"This is a great purchase, highly recommend at all.",False,Positive
+"This was a terrible purchase, do not buy.",False,Negative
+Extremely poor quality and useless.,False,Negative
+I absolutely loved this product.,False,Positive
+Did not meet my expectations at all.,False,Negative
+"I hated this product, very disappointed.",False,Negative
+"A at all horrible experience, won't return.",True,Negative
+Did not meet my expectations at all.,False,Negative
+Extremely poor quality and useless.,False,Negative
+"This was a not terrible purchase, do not buy.",True,Negative
+A wonderful experience from start to finish.,False,Positive
+Really happy with the quality and performance.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+Extremely never poor quality and useless.,True,Negative
+A wonderful experience from start to finish.,False,Positive
+"A scarcely horrible experience, won't return.",True,Negative
+"This is a great purchase, highly recommend.",False,Positive
+Extremely not poor quality and useless.,True,Negative
+"A horrible experience, won't return.",False,Negative
+Really happy with the quality and performance.,False,Positive
+"A scarcely horrible experience, won't return.",True,Negative
+Really happy with the quality and performance.,False,Positive
+"A horrible experience, won't return.",False,Negative
+I absolutely loved this product.,False,Positive
+A wonderful experience from start to finish.,False,Positive
+"This is a at all great purchase, highly recommend.",True,Positive
+"This is a great purchase, highly recommend at all.",False,Positive
+Extremely poor quality and useless.,False,Negative
+Extremely poor quality and useless.,False,Negative
+"This was a never terrible purchase, do not buy.",True,Negative
+Really at all happy with the quality and performance.,True,Positive
