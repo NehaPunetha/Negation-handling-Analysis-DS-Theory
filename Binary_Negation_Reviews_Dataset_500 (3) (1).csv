@@ -1,0 +1,264 @@
+Review,Has_Negation,True_Label
+The shoes is slow.,0,0
+I found the shoes quite worst.,0,0
+This phone turned out to be slow.,0,0
+The pillow is amazing.,0,1
+The headphones is worst.,0,0
+The book is not terrible.,1,1
+The pillow is horrible.,0,0
+The book is uncomfortable.,0,0
+The pillow is poor.,0,0
+This laptop feels not fast and works well.,1,0
+This shoes turned out to be not slow.,1,1
+I found the watch quite bad.,0,0
+The camera is not awful.,1,1
+I found the headphones really good.,0,1
+This headphones turned out to be not slow.,1,1
+I found the laptop quite horrible.,0,0
+I found the keyboard quite cheap.,0,0
+The book is uncomfortable.,0,0
+The headphones is amazing.,0,1
+The camera is great.,0,1
+I found the book quite not horrible.,1,1
+I found the book really fast.,0,1
+I found the pillow really durable.,0,1
+The phone is not cheap.,1,1
+The headphones is horrible.,0,0
+The laptop is comfortable.,0,1
+The headphones is helpful.,0,1
+The headphones is horrible.,0,0
+This phone turned out to be awful.,0,0
+This book turned out to be cheap.,0,0
+I found the headphones quite awful.,0,0
+This pillow feels not comfortable and works well.,1,0
+I found the keyboard quite uncomfortable.,0,0
+I found the pillow quite not cheap.,1,1
+I found the headphones really excellent.,0,1
+I found the keyboard really good.,0,1
+I found the shoes really excellent.,0,1
+I found the pillow really useful.,0,1
+This watch turned out to be horrible.,0,0
+I found the headphones really durable.,0,1
+The camera is comfortable.,0,1
+This shoes turned out to be uncomfortable.,0,0
+This bag turned out to be not poor.,1,1
+I found the bag quite not awful.,1,1
+This headphones feels comfortable and works well.,0,1
+This watch feels excellent and works well.,0,1
+This keyboard turned out to be awful.,0,0
+The headphones is not uncomfortable.,1,1
+The book is durable.,0,1
+The headphones is uncomfortable.,0,0
+The shoes is not bad.,1,1
+This laptop turned out to be slow.,0,0
+I found the bag really not durable.,1,0
+This watch feels useful and works well.,0,1
+I found the bag really fast.,0,1
+The watch is bad.,0,0
+I found the phone quite awful.,0,0
+The book is not horrible.,1,1
+This pillow turned out to be poor.,0,0
+This laptop turned out to be cheap.,0,0
+The shoes is amazing.,0,1
+I found the book quite cheap.,0,0
+This book turned out to be slow.,0,0
+The camera is horrible.,0,0
+This pillow turned out to be poor.,0,0
+I found the headphones really amazing.,0,1
+I found the book quite terrible.,0,0
+This book feels useful and works well.,0,1
+I found the phone really useful.,0,1
+The watch is amazing.,0,1
+The book is excellent.,0,1
+The camera is excellent.,0,1
+This phone feels great and works well.,0,1
+I found the laptop quite not horrible.,1,1
+This shoes feels not useful and works well.,1,0
+This camera turned out to be bad.,0,0
+This phone feels not good and works well.,1,0
+The shoes is bad.,0,0
+I found the pillow really good.,0,1
+I found the book quite poor.,0,0
+The watch is useful.,0,1
+This laptop turned out to be poor.,0,0
+The headphones is durable.,0,1
+The book is worst.,0,0
+This watch feels useful and works well.,0,1
+I found the laptop really amazing.,0,1
+This pillow turned out to be not terrible.,1,1
+The bag is not terrible.,1,1
+The headphones is excellent.,0,1
+This headphones feels fast and works well.,0,1
+This book feels amazing and works well.,0,1
+This watch feels not good and works well.,1,0
+The watch is not great.,1,0
+This shoes feels not useful and works well.,1,0
+This pillow feels not useful and works well.,1,0
+I found the shoes quite horrible.,0,0
+This laptop feels not excellent and works well.,1,0
+This camera feels great and works well.,0,1
+The headphones is uncomfortable.,0,0
+I found the laptop really helpful.,0,1
+The pillow is fast.,0,1
+This keyboard turned out to be not slow.,1,1
+I found the headphones quite not bad.,1,1
+The watch is cheap.,0,0
+I found the pillow really durable.,0,1
+This watch feels not good and works well.,1,0
+The camera is comfortable.,0,1
+This shoes feels not great and works well.,1,0
+I found the book quite not awful.,1,1
+The laptop is poor.,0,0
+The keyboard is great.,0,1
+This bag feels amazing and works well.,0,1
+This camera turned out to be not poor.,1,1
+I found the shoes really not amazing.,1,0
+I found the shoes really amazing.,0,1
+I found the phone quite cheap.,0,0
+The camera is amazing.,0,1
+The book is slow.,0,0
+The keyboard is not excellent.,1,0
+The bag is not slow.,1,1
+I found the book really excellent.,0,1
+The watch is not comfortable.,1,0
+This pillow feels not durable and works well.,1,0
+I found the watch quite terrible.,0,0
+I found the bag quite not horrible.,1,1
+I found the phone really excellent.,0,1
+This pillow feels fast and works well.,0,1
+The shoes is uncomfortable.,0,0
+I found the watch really good.,0,1
+This book turned out to be not slow.,1,1
+The laptop is not comfortable.,1,0
+I found the pillow really great.,0,1
+I found the pillow quite not horrible.,1,1
+The bag is not fast.,1,0
+I found the camera quite not poor.,1,1
+This camera turned out to be worst.,0,0
+I found the bag quite terrible.,0,0
+I found the pillow quite bad.,0,0
+I found the headphones quite horrible.,0,0
+This phone turned out to be not awful.,1,1
+This phone turned out to be poor.,0,0
+The camera is comfortable.,0,1
+This pillow feels not good and works well.,1,0
+This shoes turned out to be uncomfortable.,0,0
+I found the shoes quite terrible.,0,0
+The pillow is amazing.,0,1
+The bag is amazing.,0,1
+The phone is horrible.,0,0
+This keyboard feels not useful and works well.,1,0
+I found the phone really not comfortable.,1,0
+The book is comfortable.,0,1
+The camera is durable.,0,1
+The laptop is comfortable.,0,1
+The phone is bad.,0,0
+I found the bag really amazing.,0,1
+The laptop is not excellent.,1,0
+I found the book really not useful.,1,0
+This keyboard turned out to be cheap.,0,0
+I found the pillow quite terrible.,0,0
+The keyboard is comfortable.,0,1
+This headphones turned out to be poor.,0,0
+This bag turned out to be awful.,0,0
+The headphones is fast.,0,1
+I found the camera really not great.,1,0
+This keyboard feels helpful and works well.,0,1
+This camera feels comfortable and works well.,0,1
+I found the pillow quite bad.,0,0
+The shoes is excellent.,0,1
+The shoes is not terrible.,1,1
+I found the keyboard really useful.,0,1
+I found the watch really good.,0,1
+This shoes turned out to be bad.,0,0
+This watch feels not durable and works well.,1,0
+The laptop is uncomfortable.,0,0
+I found the camera really excellent.,0,1
+The pillow is comfortable.,0,1
+This watch feels not great and works well.,1,0
+I found the pillow quite cheap.,0,0
+The phone is not cheap.,1,1
+This bag turned out to be bad.,0,0
+The camera is fast.,0,1
+The book is poor.,0,0
+This camera turned out to be not awful.,1,1
+I found the laptop quite not terrible.,1,1
+I found the headphones really fast.,0,1
+I found the book quite awful.,0,0
+I found the book quite horrible.,0,0
+The keyboard is not durable.,1,0
+I found the laptop quite worst.,0,0
+This keyboard turned out to be slow.,0,0
+The book is not durable.,1,0
+I found the laptop really useful.,0,1
+The bag is amazing.,0,1
+The shoes is not amazing.,1,0
+The pillow is excellent.,0,1
+This watch turned out to be terrible.,0,0
+This shoes turned out to be uncomfortable.,0,0
+The phone is not uncomfortable.,1,1
+The book is worst.,0,0
+I found the keyboard quite bad.,0,0
+The headphones is poor.,0,0
+This pillow turned out to be not bad.,1,1
+I found the headphones really great.,0,1
+This book feels not great and works well.,1,0
+I found the shoes really helpful.,0,1
+This camera turned out to be not uncomfortable.,1,1
+This headphones feels useful and works well.,0,1
+The bag is comfortable.,0,1
+I found the laptop quite worst.,0,0
+I found the watch really excellent.,0,1
+I found the book quite not cheap.,1,1
+This headphones feels useful and works well.,0,1
+This headphones turned out to be bad.,0,0
+I found the laptop really useful.,0,1
+I found the book quite horrible.,0,0
+The phone is good.,0,1
+This watch feels useful and works well.,0,1
+I found the book really excellent.,0,1
+This phone turned out to be uncomfortable.,0,0
+The shoes is not useful.,1,0
+The watch is good.,0,1
+I found the bag quite worst.,0,0
+This shoes feels not useful and works well.,1,0
+This camera feels not durable and works well.,1,0
+I found the headphones quite not horrible.,1,1
+The pillow is not comfortable.,1,0
+I found the shoes really fast.,0,1
+The phone is cheap.,0,0
+The pillow is excellent.,0,1
+This pillow feels amazing and works well.,0,1
+I found the shoes quite not slow.,1,1
+I found the keyboard quite awful.,0,0
+This watch turned out to be not worst.,1,1
+The bag is worst.,0,0
+This watch feels amazing and works well.,0,1
+The shoes is worst.,0,0
+This watch feels useful and works well.,0,1
+The watch is uncomfortable.,0,0
+The bag is not helpful.,1,0
+This pillow feels great and works well.,0,1
+This phone feels comfortable and works well.,0,1
+This shoes feels comfortable and works well.,0,1
+This pillow feels not useful and works well.,1,0
+I found the phone really fast.,0,1
+This laptop turned out to be awful.,0,0
+The keyboard is poor.,0,0
+I found the headphones quite terrible.,0,0
+The laptop is bad.,0,0
+The keyboard is fast.,0,1
+I found the bag quite terrible.,0,0
+I found the keyboard quite slow.,0,0
+This shoes turned out to be horrible.,0,0
+This book turned out to be cheap.,0,0
+This laptop turned out to be bad.,0,0
+The camera is great.,0,1
+This shoes turned out to be awful.,0,0
+The phone is bad.,0,0
+The watch is not comfortable.,1,0
+I found the bag really helpful.,0,1
+This book feels useful and works well.,0,1
+I found the camera quite not worst.,1,1
+This laptop feels useful and works well.,0,1
+This pillow turned out to be horrible.,0,0

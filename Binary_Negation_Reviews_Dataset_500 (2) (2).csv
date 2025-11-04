@@ -1,0 +1,501 @@
+Review,True_Label,Has_Negation
+Not disappointing — highly recommend this place.,Positive,True
+The food was excellent. Would buy again.,Positive,False
+Not good — do not recommend this place at all.,Negative,True
+Exceeded my expectations. Would buy again.,Positive,False
+I loved the experience. Would buy again.,Positive,False
+Service was outstanding. Would buy again.,Positive,False
+The food was excellent. Would buy again.,Positive,False
+No good — one star.,Negative,True
+Exceeded my expectations. Would buy again.,Positive,False
+Five stars. Would buy again.,Positive,False
+I hated the experience. Would not buy again.,Negative,True
+Highly recommend this place. Would buy again.,Positive,False
+Not disappointing — it works perfectly.,Positive,True
+Not impressed — the food was terrible.,Negative,True
+Far from bad — i am very satisfied.,Positive,False
+Do not recommend this place. Would not buy again.,Negative,True
+The food was excellent. Would buy again.,Positive,False
+It works perfectly. Would buy again.,Positive,False
+Fantastic quality. Would buy again.,Positive,False
+Surprisingly okay — i am very satisfied.,Positive,False
+Do not recommend this place. Would not buy again.,Negative,True
+I loved the experience. Not bad at all.,Positive,True
+Not at all bad — exceeded my expectations.,Positive,True
+No good — i am very disappointed.,Negative,True
+I am very satisfied. Not bad at all.,Positive,True
+A horrible product. Would not buy again.,Negative,True
+Not impressed — a horrible product at all.,Negative,True
+I am very satisfied. Would buy again.,Positive,False
+Not bad — i am very satisfied.,Positive,True
+It failed to work. Not great at all.,Negative,True
+Not at all good — one star.,Negative,True
+I am very satisfied. Would buy again.,Positive,False
+Not disappointing — i am very satisfied.,Positive,True
+Do not recommend this place. Would not buy again.,Negative,True
+It works perfectly. Would buy again.,Positive,False
+Do not recommend this place. Would not buy again.,Negative,True
+Far from bad — i am very satisfied at all.,Positive,False
+Far from bad — i loved the experience.,Positive,False
+The food was excellent. Would buy again.,Positive,False
+Not disappointing — i am very satisfied.,Positive,True
+Far from great — did not meet my expectations.,Negative,True
+Not bad at all — exceeded my expectations.,Positive,True
+The food was terrible. Not great at all.,Negative,True
+The food was excellent. Would buy again.,Positive,False
+Not bad at all — service was outstanding.,Positive,True
+Wouldn't call it bad — the food was excellent.,Positive,False
+Not at all bad — i loved the experience.,Positive,True
+Not bad at all — highly recommend this place.,Positive,True
+Surprisingly okay — exceeded my expectations at all.,Positive,False
+Not great at all — i am very disappointed.,Negative,True
+Not bad — i loved the experience.,Positive,True
+Not impressed — i am very disappointed.,Negative,True
+Service was outstanding. Not bad at all.,Positive,True
+Highly recommend this place. Would buy again.,Positive,False
+Not good — do not recommend this place.,Negative,True
+I am very satisfied. Would buy again.,Positive,False
+It failed to work. Would not buy again.,Negative,True
+Wouldn't call it bad — an amazing product.,Positive,False
+I hated the experience. Would not buy again.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+Service was outstanding. Would buy again.,Positive,False
+It failed to work. Would not buy again.,Negative,True
+Not good — a horrible product.,Negative,True
+Service was awful. Not great at all.,Negative,True
+Not impressed — i am very disappointed at all.,Negative,True
+Far from great — it failed to work.,Negative,False
+I hated the experience. Would not buy again.,Negative,True
+I loved the experience. Would buy again.,Positive,False
+Not disappointing — an amazing product.,Positive,True
+I hated the experience. Would not buy again.,Negative,True
+Not bad — service was outstanding.,Positive,True
+Service was awful. Would not buy again.,Negative,True
+Not at all disappointed — i loved the experience.,Positive,True
+It works perfectly. Would buy again.,Positive,False
+Do not recommend this place. Would not buy again.,Negative,True
+Exceeded my expectations. Would buy again.,Positive,False
+Far from bad — exceeded my expectations.,Positive,False
+Not good — did not meet my expectations.,Negative,True
+Hardly good — poor quality.,Negative,True
+Do not recommend this place. Would not buy again.,Negative,True
+An amazing product. Would buy again.,Positive,False
+I am very satisfied. Would buy again.,Positive,False
+It failed to work. Would not buy again.,Negative,True
+Surprisingly okay — service was outstanding.,Positive,False
+Not bad at all — it works perfectly.,Positive,True
+Not bad — an amazing product.,Positive,True
+Far from great — i am very disappointed.,Negative,False
+It failed to work. Would not buy again.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+Not disappointing — exceeded my expectations.,Positive,True
+A horrible product. Would not buy again.,Negative,True
+Hardly good — one star.,Negative,True
+I am very disappointed. Would not buy again.,Negative,True
+Service was awful. Would not buy again.,Negative,True
+Not at all disappointed — five stars.,Positive,True
+An amazing product. Would buy again.,Positive,False
+I loved the experience. Would buy again.,Positive,False
+The food was excellent. Would buy again.,Positive,False
+Do not recommend this place. Would not buy again.,Negative,True
+I hated the experience. Would not buy again.,Negative,True
+I am very satisfied. Would buy again.,Positive,False
+Not great at all — the food was terrible.,Negative,True
+I am very satisfied. Would buy again.,Positive,False
+One star. Would not buy again.,Negative,True
+Service was awful. Would not buy again.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+Not at all good — i am very disappointed.,Negative,True
+Far from bad — service was outstanding.,Positive,False
+Fantastic quality. Would buy again.,Positive,False
+Not good — did not meet my expectations.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+Did not meet my expectations. Would not buy again.,Negative,True
+Fantastic quality. Would buy again.,Positive,False
+Not disappointing — exceeded my expectations.,Positive,True
+I am very disappointed. Would not buy again.,Negative,True
+I loved the experience. Would buy again.,Positive,False
+Fantastic quality. Would buy again.,Positive,False
+Wouldn't call it bad — highly recommend this place.,Positive,False
+Barely acceptable — a horrible product.,Negative,True
+I am very disappointed. Would not buy again.,Negative,True
+The food was excellent. Would buy again.,Positive,False
+Highly recommend this place. Would buy again.,Positive,False
+Fantastic quality. Would buy again.,Positive,False
+An amazing product. Would buy again.,Positive,False
+Not impressed — the food was terrible.,Negative,True
+Barely acceptable — a horrible product at all.,Negative,True
+One star. Would not buy again.,Negative,True
+Not at all bad — five stars.,Positive,True
+Not at all bad — it works perfectly.,Positive,True
+Not at all good — poor quality.,Negative,True
+Poor quality. Would not buy again.,Negative,True
+An amazing product. Would buy again.,Positive,False
+One star. Would not buy again.,Negative,True
+No good — the food was terrible.,Negative,True
+Barely acceptable — one star.,Negative,True
+Not great at all — service was awful.,Negative,True
+Surprisingly okay — an amazing product.,Positive,False
+Highly recommend this place. Would buy again.,Positive,False
+Poor quality. Would not buy again.,Negative,True
+A horrible product. Not great at all.,Negative,True
+Five stars. Would buy again.,Positive,False
+Did not meet my expectations. Would not buy again.,Negative,True
+No good — a horrible product.,Negative,True
+Not disappointing — the food was excellent.,Positive,True
+Surprisingly okay — five stars.,Positive,False
+It works perfectly. Would buy again.,Positive,False
+Surprisingly okay — service was outstanding.,Positive,False
+Service was outstanding. Would buy again.,Positive,False
+Not great at all — a horrible product at all.,Negative,True
+I hated the experience. Would not buy again.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+I hated the experience. Would not buy again.,Negative,True
+Not at all bad — an amazing product.,Positive,True
+Far from bad — five stars.,Positive,False
+One star. Would not buy again.,Negative,True
+Not at all good — one star.,Negative,True
+The food was excellent. Would buy again.,Positive,False
+Not bad — service was outstanding.,Positive,True
+A horrible product. Would not buy again.,Negative,True
+Not at all bad — fantastic quality.,Positive,True
+Five stars. Would buy again.,Positive,False
+Service was outstanding. Would buy again.,Positive,False
+Service was awful. Not great at all.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+No good — did not meet my expectations.,Negative,True
+Did not meet my expectations. Would not buy again.,Negative,True
+Do not recommend this place. Not great at all.,Negative,True
+An amazing product. Would buy again.,Positive,False
+I am very satisfied. Would buy again.,Positive,False
+One star. Would not buy again.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+Not impressed — the food was terrible.,Negative,True
+Did not meet my expectations. Would not buy again.,Negative,True
+It works perfectly. Would buy again.,Positive,False
+I am very satisfied. Would buy again.,Positive,False
+Exceeded my expectations. Would buy again.,Positive,False
+Wouldn't call it bad — fantastic quality.,Positive,False
+Wouldn't call it bad — an amazing product.,Positive,False
+Far from great — one star.,Negative,False
+Not at all bad — exceeded my expectations at all.,Positive,True
+Fantastic quality. Would buy again.,Positive,False
+An amazing product. Would buy again.,Positive,False
+Poor quality. Would not buy again.,Negative,True
+Highly recommend this place. Would buy again.,Positive,False
+Exceeded my expectations. Would buy again.,Positive,False
+I hated the experience. Would not buy again.,Negative,True
+One star. Would not buy again.,Negative,True
+Poor quality. Would not buy again.,Negative,True
+Not great at all — did not meet my expectations.,Negative,True
+Do not recommend this place. Would not buy again.,Negative,True
+Hardly good — i hated the experience.,Negative,True
+Did not meet my expectations. Would not buy again.,Negative,True
+I am very satisfied. Not bad at all.,Positive,True
+Poor quality. Would not buy again.,Negative,True
+Service was outstanding. Would buy again.,Positive,False
+The food was terrible. Would not buy again.,Negative,True
+One star. Would not buy again.,Negative,True
+I am very disappointed. Would not buy again.,Negative,True
+Poor quality. Would not buy again.,Negative,True
+An amazing product. Would buy again.,Positive,False
+The food was excellent. Would buy again.,Positive,False
+I loved the experience. Would buy again.,Positive,False
+Not at all disappointed — it works perfectly at all.,Positive,True
+Not impressed — one star.,Negative,True
+Far from bad — exceeded my expectations.,Positive,False
+Poor quality. Would not buy again.,Negative,True
+Poor quality. Would not buy again.,Negative,True
+Poor quality. Would not buy again.,Negative,True
+Did not meet my expectations. Would not buy again.,Negative,True
+Did not meet my expectations. Would not buy again.,Negative,True
+No good — it failed to work.,Negative,True
+No good — did not meet my expectations.,Negative,True
+I loved the experience. Would buy again.,Positive,False
+Do not recommend this place. Would not buy again.,Negative,True
+Not impressed — a horrible product.,Negative,True
+An amazing product. Would buy again.,Positive,False
+Not at all good — service was awful.,Negative,True
+Not impressed — do not recommend this place.,Negative,True
+Service was awful. Would not buy again.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+Exceeded my expectations. Would buy again.,Positive,False
+Not at all good — a horrible product.,Negative,True
+Barely acceptable — a horrible product.,Negative,True
+Hardly good — i hated the experience.,Negative,True
+Fantastic quality. Would buy again.,Positive,False
+I hated the experience. Not great at all.,Negative,True
+Far from bad — the food was excellent.,Positive,False
+Not bad at all — i am very satisfied.,Positive,True
+Fantastic quality. Would buy again.,Positive,False
+It failed to work. Would not buy again.,Negative,True
+It works perfectly. Would buy again.,Positive,False
+It works perfectly. Would buy again.,Positive,False
+Wouldn't call it bad — the food was excellent.,Positive,False
+Five stars. Would buy again.,Positive,False
+Far from bad — service was outstanding.,Positive,False
+Five stars. Would buy again.,Positive,False
+Service was outstanding. Would buy again.,Positive,False
+Surprisingly okay — service was outstanding.,Positive,False
+Not bad — service was outstanding.,Positive,True
+It failed to work. Would not buy again.,Negative,True
+Not at all bad — exceeded my expectations at all.,Positive,True
+I am very satisfied. Would buy again.,Positive,False
+Five stars. Would buy again.,Positive,False
+I am very satisfied. Would buy again.,Positive,False
+I hated the experience. Would not buy again.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+A horrible product. Not great at all.,Negative,True
+Not great at all — a horrible product.,Negative,True
+Far from great — i am very disappointed.,Negative,False
+It failed to work. Would not buy again.,Negative,True
+Barely acceptable — it failed to work.,Negative,True
+Service was awful. Would not buy again.,Negative,True
+Barely acceptable — the food was terrible.,Negative,True
+Service was outstanding. Would buy again.,Positive,False
+It works perfectly. Would buy again.,Positive,False
+Exceeded my expectations. Would buy again.,Positive,False
+It works perfectly. Would buy again.,Positive,False
+Fantastic quality. Would buy again.,Positive,False
+I am very satisfied. Would buy again.,Positive,False
+Barely acceptable — do not recommend this place.,Negative,True
+An amazing product. Would buy again.,Positive,False
+Not at all disappointed — an amazing product.,Positive,True
+Barely acceptable — one star.,Negative,True
+Not at all bad — i loved the experience.,Positive,True
+Not at all disappointed — service was outstanding.,Positive,True
+One star. Would not buy again.,Negative,True
+Five stars. Would buy again.,Positive,False
+Exceeded my expectations. Would buy again.,Positive,False
+Do not recommend this place. Would not buy again.,Negative,True
+Wouldn't call it bad — five stars at all.,Positive,False
+Not good — one star.,Negative,True
+Surprisingly okay — service was outstanding.,Positive,False
+Not impressed — did not meet my expectations at all.,Negative,True
+Not at all disappointed — i am very satisfied.,Positive,True
+Not bad — exceeded my expectations.,Positive,True
+One star. Would not buy again.,Negative,True
+Did not meet my expectations. Would not buy again.,Negative,True
+Not impressed — it failed to work at all.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+One star. Would not buy again.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+Not at all good — the food was terrible.,Negative,True
+Service was outstanding. Would buy again.,Positive,False
+Not disappointing — service was outstanding.,Positive,True
+Wouldn't call it bad — fantastic quality.,Positive,False
+One star. Would not buy again.,Negative,True
+Service was awful. Would not buy again.,Negative,True
+No good — a horrible product.,Negative,True
+Wouldn't call it bad — fantastic quality at all.,Positive,False
+Not at all bad — the food was excellent.,Positive,True
+I hated the experience. Would not buy again.,Negative,True
+Do not recommend this place. Would not buy again.,Negative,True
+I hated the experience. Would not buy again.,Negative,True
+Not at all good — it failed to work.,Negative,True
+Not disappointing — fantastic quality.,Positive,True
+Hardly good — did not meet my expectations.,Negative,True
+The food was excellent. Would buy again.,Positive,False
+No good — a horrible product.,Negative,True
+Not at all disappointed — service was outstanding.,Positive,True
+Did not meet my expectations. Would not buy again.,Negative,True
+An amazing product. Would buy again.,Positive,False
+Service was awful. Would not buy again.,Negative,True
+It works perfectly. Would buy again.,Positive,False
+Not at all disappointed — highly recommend this place.,Positive,True
+Not at all good — service was awful.,Negative,True
+I am very disappointed. Not great at all.,Negative,True
+Five stars. Would buy again.,Positive,False
+Service was outstanding. Would buy again.,Positive,False
+It works perfectly. Not bad at all.,Positive,True
+Fantastic quality. Would buy again.,Positive,False
+Fantastic quality. Would buy again.,Positive,False
+Wouldn't call it bad — fantastic quality.,Positive,False
+Did not meet my expectations. Would not buy again.,Negative,True
+Service was outstanding. Would buy again.,Positive,False
+Not at all good — it failed to work.,Negative,True
+Wouldn't call it bad — an amazing product.,Positive,False
+Highly recommend this place. Not bad at all.,Positive,True
+Did not meet my expectations. Would not buy again.,Negative,True
+Not at all bad — exceeded my expectations.,Positive,True
+Hardly good — the food was terrible.,Negative,True
+Not disappointing — fantastic quality.,Positive,True
+The food was terrible. Not great at all.,Negative,True
+Not bad at all — i am very satisfied.,Positive,True
+The food was excellent. Would buy again.,Positive,False
+Wouldn't call it bad — five stars.,Positive,False
+Not bad — five stars.,Positive,True
+I loved the experience. Would buy again.,Positive,False
+Hardly good — the food was terrible.,Negative,True
+I am very satisfied. Would buy again.,Positive,False
+Not at all disappointed — exceeded my expectations.,Positive,True
+The food was terrible. Would not buy again.,Negative,True
+Hardly good — the food was terrible.,Negative,True
+Wouldn't call it bad — service was outstanding.,Positive,False
+The food was terrible. Would not buy again.,Negative,True
+Not good — do not recommend this place.,Negative,True
+I am very disappointed. Would not buy again.,Negative,True
+No good — do not recommend this place.,Negative,True
+It failed to work. Not great at all.,Negative,True
+Not great at all — did not meet my expectations.,Negative,True
+Hardly good — poor quality.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+I am very disappointed. Would not buy again.,Negative,True
+No good — a horrible product at all.,Negative,True
+Poor quality. Would not buy again.,Negative,True
+It failed to work. Would not buy again.,Negative,True
+Not at all good — i hated the experience.,Negative,True
+Not good — service was awful.,Negative,True
+Fantastic quality. Would buy again.,Positive,False
+Not at all disappointed — it works perfectly.,Positive,True
+Service was awful. Not great at all.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+An amazing product. Would buy again.,Positive,False
+Service was outstanding. Not bad at all.,Positive,True
+The food was terrible. Would not buy again.,Negative,True
+Do not recommend this place. Would not buy again.,Negative,True
+Do not recommend this place. Would not buy again.,Negative,True
+Wouldn't call it bad — service was outstanding at all.,Positive,False
+It works perfectly. Would buy again.,Positive,False
+A horrible product. Would not buy again.,Negative,True
+Service was awful. Would not buy again.,Negative,True
+Do not recommend this place. Would not buy again.,Negative,True
+Not at all disappointed — it works perfectly.,Positive,True
+One star. Would not buy again.,Negative,True
+Not bad at all — fantastic quality.,Positive,True
+It failed to work. Not great at all.,Negative,True
+It works perfectly. Would buy again.,Positive,False
+Five stars. Would buy again.,Positive,False
+I am very satisfied. Would buy again.,Positive,False
+An amazing product. Would buy again.,Positive,False
+Not at all disappointed — highly recommend this place.,Positive,True
+I am very disappointed. Would not buy again.,Negative,True
+Not at all good — i am very disappointed.,Negative,True
+Service was outstanding. Would buy again.,Positive,False
+I hated the experience. Would not buy again.,Negative,True
+Surprisingly okay — five stars.,Positive,False
+I loved the experience. Would buy again.,Positive,False
+A horrible product. Would not buy again.,Negative,True
+No good — did not meet my expectations.,Negative,True
+Barely acceptable — poor quality at all.,Negative,True
+Service was awful. Would not buy again.,Negative,True
+It failed to work. Would not buy again.,Negative,True
+Not at all good — i am very disappointed.,Negative,True
+Far from great — poor quality.,Negative,False
+Not bad at all — exceeded my expectations.,Positive,True
+It works perfectly. Would buy again.,Positive,False
+Not great at all — i am very disappointed.,Negative,True
+The food was terrible. Would not buy again.,Negative,True
+Do not recommend this place. Would not buy again.,Negative,True
+Not great at all — one star.,Negative,True
+Did not meet my expectations. Would not buy again.,Negative,True
+Exceeded my expectations. Would buy again.,Positive,False
+Far from great — i am very disappointed at all.,Negative,False
+I am very disappointed. Not great at all.,Negative,True
+One star. Would not buy again.,Negative,True
+Not at all disappointed — it works perfectly at all.,Positive,True
+I am very disappointed. Would not buy again.,Negative,True
+Service was awful. Not great at all.,Negative,True
+Service was awful. Would not buy again.,Negative,True
+Not bad at all — service was outstanding.,Positive,True
+I am very disappointed. Would not buy again.,Negative,True
+I hated the experience. Would not buy again.,Negative,True
+No good — did not meet my expectations at all.,Negative,True
+Five stars. Would buy again.,Positive,False
+Service was outstanding. Would buy again.,Positive,False
+Not at all good — i hated the experience.,Negative,True
+Not bad at all — service was outstanding.,Positive,True
+Fantastic quality. Would buy again.,Positive,False
+I am very satisfied. Would buy again.,Positive,False
+Did not meet my expectations. Would not buy again.,Negative,True
+I am very disappointed. Would not buy again.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+No good — i am very disappointed.,Negative,True
+An amazing product. Would buy again.,Positive,False
+Fantastic quality. Would buy again.,Positive,False
+A horrible product. Would not buy again.,Negative,True
+Barely acceptable — did not meet my expectations.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+Wouldn't call it bad — it works perfectly.,Positive,False
+I am very disappointed. Would not buy again.,Negative,True
+Service was awful. Would not buy again.,Negative,True
+Highly recommend this place. Would buy again.,Positive,False
+Highly recommend this place. Would buy again.,Positive,False
+Not at all bad — fantastic quality.,Positive,True
+Not bad at all — service was outstanding.,Positive,True
+A horrible product. Would not buy again.,Negative,True
+Far from great — the food was terrible at all.,Negative,False
+Service was outstanding. Would buy again.,Positive,False
+Fantastic quality. Would buy again.,Positive,False
+An amazing product. Would buy again.,Positive,False
+Not at all disappointed — the food was excellent.,Positive,True
+I am very disappointed. Would not buy again.,Negative,True
+I am very disappointed. Would not buy again.,Negative,True
+Not impressed — it failed to work.,Negative,True
+I hated the experience. Would not buy again.,Negative,True
+Do not recommend this place. Would not buy again.,Negative,True
+Exceeded my expectations. Would buy again.,Positive,False
+The food was terrible. Not great at all.,Negative,True
+Highly recommend this place. Would buy again.,Positive,False
+Not at all disappointed — an amazing product.,Positive,True
+A horrible product. Would not buy again.,Negative,True
+The food was terrible. Not great at all.,Negative,True
+No good — i am very disappointed.,Negative,True
+It works perfectly. Would buy again.,Positive,False
+Wouldn't call it bad — service was outstanding.,Positive,False
+Poor quality. Would not buy again.,Negative,True
+Five stars. Would buy again.,Positive,False
+It works perfectly. Would buy again.,Positive,False
+I am very satisfied. Not bad at all.,Positive,True
+It works perfectly. Would buy again.,Positive,False
+Not great at all — one star.,Negative,True
+I loved the experience. Would buy again.,Positive,False
+Not good — one star.,Negative,True
+I hated the experience. Would not buy again.,Negative,True
+Not at all good — do not recommend this place at all.,Negative,True
+I am very satisfied. Would buy again.,Positive,False
+Fantastic quality. Not bad at all.,Positive,True
+Not bad at all — service was outstanding.,Positive,True
+Did not meet my expectations. Would not buy again.,Negative,True
+Not impressed — i am very disappointed.,Negative,True
+Not impressed — did not meet my expectations.,Negative,True
+An amazing product. Would buy again.,Positive,False
+I am very disappointed. Would not buy again.,Negative,True
+It failed to work. Would not buy again.,Negative,True
+Not bad — the food was excellent.,Positive,True
+I hated the experience. Would not buy again.,Negative,True
+Wouldn't call it bad — i loved the experience at all.,Positive,False
+Far from bad — fantastic quality at all.,Positive,False
+Service was outstanding. Would buy again.,Positive,False
+Hardly good — one star.,Negative,True
+Far from great — i am very disappointed.,Negative,False
+Not impressed — one star at all.,Negative,True
+It failed to work. Not great at all.,Negative,True
+Did not meet my expectations. Would not buy again.,Negative,True
+Not great at all — i am very disappointed.,Negative,True
+Service was outstanding. Would buy again.,Positive,False
+Did not meet my expectations. Would not buy again.,Negative,True
+Not at all bad — it works perfectly.,Positive,True
+Do not recommend this place. Not great at all.,Negative,True
+Not bad — five stars.,Positive,True
+Far from bad — i am very satisfied.,Positive,False
+Not good — a horrible product.,Negative,True
+The food was excellent. Would buy again.,Positive,False
+Do not recommend this place. Would not buy again.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+A horrible product. Would not buy again.,Negative,True
+Not at all good — poor quality.,Negative,True
+Do not recommend this place. Would not buy again.,Negative,True
+Not impressed — do not recommend this place at all.,Negative,True
+Not bad at all — five stars.,Positive,True
+Far from great — did not meet my expectations.,Negative,True
+It failed to work. Would not buy again.,Negative,True
+Poor quality. Would not buy again.,Negative,True
+Not impressed — service was awful.,Negative,True
+Not good — i hated the experience.,Negative,True
+I loved the experience. Would buy again.,Positive,False
+Not impressed — the food was terrible.,Negative,True
